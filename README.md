@@ -50,8 +50,13 @@ public class CloudInsightSDKTest {
 }
 ```
 - cloudinsight 效果图如下:
-![平台列表](https://github.com/cloudinsight/cloudinsight-java-sdk/images/1.overview.png)
-![平台列表指标展示](https://github.com/cloudinsight/cloudinsight-java-sdk/images/2.overview metric.png)
-![仪表盘展示](https://github.com/cloudinsight/cloudinsight-java-sdk/images/3.customer dashboard.png)
+平台列表展示:
+![平台列表](https://github.com/cloudinsight/cloudinsight-java-sdk/blob/master/images/1.overview.png)
+
+平台列表指标展示:
+![平台列表指标展示](https://github.com/cloudinsight/cloudinsight-java-sdk/blob/master/images/2.overview%20metric.png)
+
+仪表盘展示:
+![仪表盘展示](https://github.com/cloudinsight/cloudinsight-java-sdk/blob/master/images/3.customer%20dashboard.png)
 
 - [statsd 相关介绍](https://github.com/wyvernnot/introduction-to-statsd)
