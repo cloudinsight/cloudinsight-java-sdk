@@ -1,4 +1,4 @@
-oudinsight-java-sdk
+cloudinsight-java-sdk
 ================
 
 Sdk for oneapm cloudinsight.
@@ -8,8 +8,9 @@ Sdk for oneapm cloudinsight.
 
 
 ###SDK使用步骤
-  1. 安装[Cloud Insight](http://www.oneapm.com/ci/feature.html)探针，见[文档](http://docs-ci.oneapm.com/quick-start/)。
-  2. 在 pom.xml 文件中添加依赖
+  - 安装[Cloud Insight](http://www.oneapm.com/ci/feature.html)探针，见[文档](http://docs-ci.oneapm.com/quick-start/)。
+  - 在 pom.xml 文件中添加依赖
+
 ```xml
 <dependency>
     <groupId>com.oneapm.cloud</groupId>
@@ -17,7 +18,9 @@ Sdk for oneapm cloudinsight.
     <version>0.0.1-SNAPSHOT</version>
 </dependency>
 ```
-3. 以一个小时中每隔一分钟向 cloudinsight 探针发送一个点为例．
+
+  - 以一个小时中每隔一分钟向 cloudinsight 探针发送一个点为例．
+  
 
 ``` java
 package com.oneapm.tps.sdk;
@@ -46,10 +49,11 @@ public class CloudInsightSDKTest {
 
 }
 ```
-4. cloudinsight 效果图如下:
+- cloudinsight 效果图如下:
 ![平台列表](http://f.picphotos.baidu.com/album/s=1600;q=90/sign=f7fa8ccfdef9d72a1364141be41a1345/d788d43f8794a4c290a80fdb09f41bd5ac6e39b3.jpg)
 ![平台列表指标展示](http://c.picphotos.baidu.com/album/s=1600;q=90/sign=1e0aec6dccef7609380b9d991eed98bd/faedab64034f78f0e5c872037e310a55b2191c7a.jpg)
 ![仪表盘展示](http://h.picphotos.baidu.com/album/s=1600;q=90/sign=f29c58f5e2dde711e3d247f097dff56a/3812b31bb051f819a1e6ebbaddb44aed2f73e77b.jpg)
 
-5. [statsd 相关介绍](https://github.com/wyvernnot/introduction-to-statsd)
+- [statsd 相关介绍](https://github.com/wyvernnot/introduction-to-statsd)
+
 
