@@ -33,7 +33,7 @@ public class CloudInsightSDKTest {
 
     private static final Random RAND = new Random();
 
-    public static void main2(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException {
         CloudInsightStatsDClient client = new CloudInsightStatsDClient();
 
         String metric = "sdk.java.cloudinsight";
