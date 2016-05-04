@@ -50,6 +50,10 @@ public class CloudInsightSDKTest {
 }
 ```
 - cloudinsight 效果图如下:
+
+
+
+
 平台列表展示:
 ![平台列表](https://github.com/cloudinsight/cloudinsight-java-sdk/blob/master/images/1.overview.png)
 
