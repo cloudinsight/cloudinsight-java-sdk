@@ -15,7 +15,7 @@ Sdk for oneapm cloudinsight.
 <dependency>
     <groupId>com.oneapm.cloud</groupId>
     <artifactId>cloudinsight-sdk</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 </dependency>
 ```
 
