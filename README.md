@@ -13,7 +13,7 @@ Sdk for oneapm cloudinsight.
 
 ```xml
 <dependency>
-    <groupId>com.oneapm.cloud</groupId>
+    <groupId>com.oneapm</groupId>
     <artifactId>cloudinsight-sdk</artifactId>
     <version>0.0.1</version>
 </dependency>
