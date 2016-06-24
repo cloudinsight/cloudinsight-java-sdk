@@ -3,13 +3,13 @@ cloudinsight-java-sdk
 
 SDK for OneAPM Cloudinsight.
 
-> [Cloud Insight](http://www.oneapm.com/ci/feature.html) (次世代系统监控工具):
+> [Cloudinsight](http://www.oneapm.com/ci/feature.html) (次世代系统监控工具):
 集监控、管理、协作、计算、可视化、报警于一身，减少在系统监控上的人力和时间成本投入，让运维工作变得更加高效、简单。
 
 
 ### SDK使用步骤
 
-- 安装[Cloud Insight](http://www.oneapm.com/ci/feature.html)探针，见[文档](http://docs-ci.oneapm.com/quick-start/)。
+- 安装[Cloudinsight](http://www.oneapm.com/ci/feature.html)探针，见[文档](http://docs-ci.oneapm.com/quick-start/)。
 - 在 pom.xml 文件中添加依赖
   
   ```xml
@@ -49,7 +49,7 @@ SDK for OneAPM Cloudinsight.
   
   }
   ```
-- cloudinsight 效果图如下:
+- Cloudinsight 效果图如下:
 
   平台列表展示:
   ![平台列表](https://github.com/cloudinsight/cloudinsight-java-sdk/blob/master/images/1.overview.png)
